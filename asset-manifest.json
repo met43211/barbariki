@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/barbariki/static/css/main.d5683530.css",
+    "main.js": "/barbariki/static/js/main.cd20ac8f.js",
+    "static/js/787.57d92916.chunk.js": "/barbariki/static/js/787.57d92916.chunk.js",
+    "static/media/s1.png": "/barbariki/static/media/s1.cce514e4ce72c8e0ca95.png",
+    "static/media/s423.png": "/barbariki/static/media/s423.34b5348006d6ca539b2a.png",
+    "static/media/s451.png": "/barbariki/static/media/s451.ab776114f7cad784946c.png",
+    "static/media/s453.png": "/barbariki/static/media/s453.13fac9bc3f752614a4e9.png",
+    "static/media/s424.png": "/barbariki/static/media/s424.634b1154231d6001db2d.png",
+    "static/media/s413.png": "/barbariki/static/media/s413.060b6df1b1a243733a91.png",
+    "static/media/s422.png": "/barbariki/static/media/s422.9d012eceb39cf8a90c3a.png",
+    "static/media/s434.png": "/barbariki/static/media/s434.50daf4da267819795439.png",
+    "static/media/s431.png": "/barbariki/static/media/s431.ddbfab6d8746a24b0c7f.png",
+    "static/media/s432.png": "/barbariki/static/media/s432.c41c999b35b14db2eb24.png",
+    "static/media/s433.png": "/barbariki/static/media/s433.7c57b0bb90222b8b1d64.png",
+    "static/media/s425.png": "/barbariki/static/media/s425.ccbf76157fcec0749350.png",
+    "static/media/s452.png": "/barbariki/static/media/s452.bbdeea85de8e2f12d9a0.png",
+    "static/media/s444.png": "/barbariki/static/media/s444.6c1659d798d030a6479f.png",
+    "static/media/s435.png": "/barbariki/static/media/s435.109134f00c014711c68e.png",
+    "static/media/s443.png": "/barbariki/static/media/s443.9552e8dd399c3ac6397f.png",
+    "static/media/s411.png": "/barbariki/static/media/s411.09d53a7d6fd31d758cb2.png",
+    "static/media/s412.png": "/barbariki/static/media/s412.3e37ab2298ac1f9085a0.png",
+    "static/media/s441.png": "/barbariki/static/media/s441.729b8a8122ab8063bdb1.png",
+    "static/media/s445.png": "/barbariki/static/media/s445.81081bf2f2fbdc5f3303.png",
+    "static/media/s421.png": "/barbariki/static/media/s421.083e2dc578dc95ae9a5f.png",
+    "static/media/s442.png": "/barbariki/static/media/s442.e694b2d88e43de5c18f4.png",
+    "static/media/s2.png": "/barbariki/static/media/s2.fb19ef3343e228d5ecfe.png",
+    "static/media/s51.png": "/barbariki/static/media/s51.9c5fc82afbc126384196.png",
+    "static/media/cyber.png": "/barbariki/static/media/cyber.668b63ac114fbd244daf.png",
+    "static/media/s53.png": "/barbariki/static/media/s53.84ee3d9b8b8045843729.png",
+    "index.html": "/barbariki/index.html",
+    "main.d5683530.css.map": "/barbariki/static/css/main.d5683530.css.map",
+    "main.cd20ac8f.js.map": "/barbariki/static/js/main.cd20ac8f.js.map",
+    "787.57d92916.chunk.js.map": "/barbariki/static/js/787.57d92916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5683530.css",
+    "static/js/main.cd20ac8f.js"
+  ]
+}
