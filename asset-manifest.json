@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barbariki/static/css/main.d5683530.css",
-    "main.js": "/barbariki/static/js/main.cd20ac8f.js",
+    "main.js": "/barbariki/static/js/main.c5db7bc6.js",
     "static/js/787.57d92916.chunk.js": "/barbariki/static/js/787.57d92916.chunk.js",
     "static/media/s1.png": "/barbariki/static/media/s1.cce514e4ce72c8e0ca95.png",
     "static/media/s423.png": "/barbariki/static/media/s423.34b5348006d6ca539b2a.png",
@@ -31,11 +31,11 @@
     "static/media/s53.png": "/barbariki/static/media/s53.84ee3d9b8b8045843729.png",
     "index.html": "/barbariki/index.html",
     "main.d5683530.css.map": "/barbariki/static/css/main.d5683530.css.map",
-    "main.cd20ac8f.js.map": "/barbariki/static/js/main.cd20ac8f.js.map",
+    "main.c5db7bc6.js.map": "/barbariki/static/js/main.c5db7bc6.js.map",
     "787.57d92916.chunk.js.map": "/barbariki/static/js/787.57d92916.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5683530.css",
-    "static/js/main.cd20ac8f.js"
+    "static/js/main.c5db7bc6.js"
   ]
 }
